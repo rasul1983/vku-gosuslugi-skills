@@ -1,0 +1,4 @@
+interface:
+  display_name: "Автотестирование услуг ВКУ"
+  short_description: "Кейсы, Playwright и отчёты по форме ВКУ"
+  default_prompt: "Используй $vku-service-testing: по URL тестовой формы и пути к JSON настроек составь кейсы, реализуй и прогони автотесты с фиксацией результатов и проверкой XML/PDF."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Формы и документы ВКУ"
+  short_description: "Экраны, маршруты, linkedValues, XSD и VM"
+  default_prompt: "Используй $vku-vm-templates для проектирования или проверки формы ВКУ, её переходов, вычислений и XML/PDF-шаблонов."

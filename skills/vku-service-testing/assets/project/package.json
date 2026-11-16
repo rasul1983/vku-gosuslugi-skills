@@ -1,0 +1,11 @@
+{
+  "name": "vku-service-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "login": "node login.mjs",
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {"@playwright/test": "1.65.1"}
+}

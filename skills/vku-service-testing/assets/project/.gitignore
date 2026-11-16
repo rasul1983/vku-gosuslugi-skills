@@ -1,0 +1,5 @@
+node_modules/
+.profile/
+artifacts/
+playwright-report/
+fixtures.local.json
